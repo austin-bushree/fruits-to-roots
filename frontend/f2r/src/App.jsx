@@ -1,62 +1,74 @@
+// src/App.jsx
 import { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
+// import './App.css';
+
+const standards = [
+    { id: 'HS-ESS1-4', label: 'HS-ESS1-4: Earth’s Place in the Universe' },
+    { id: 'HS-PS3-3', label: 'HS-PS3-3: Energy Design Constraints' },
+    { id: 'HS-LS1-3', label: 'HS-LS1-3: Homeostasis and Feedback' },
+    // Add more standards as needed
+];
 
 function App() {
     const [fruit, setFruit] = useState('');
-    const [rootResult, setRootResult] = useState('');
+    const [standardId, setStandardId] = useState(standards[0].id);
+    const [response, setResponse] = useState('');
     const [loading, setLoading] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
         setLoading(true);
-        setRootResult('');
+        setResponse('');
 
         try {
-            const response = await fetch(import.meta.env.VITE_BACKEND_URL + '/api/fruit', {
+            const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/fruit`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ fruit }),
+                body: JSON.stringify({ fruit, standard_id: standardId }),
             });
-
-            if (!response.ok) throw new Error('Network error');
-
-            const data = await response.json();
-            setRootResult(data.message || data.result || 'No response received.');
+            const data = await res.json();
+            setResponse(data.explanation || data.message || 'No explanation received.');
         } catch (err) {
             console.error(err);
-            setRootResult('Sorry, something went wrong.');
+            setResponse('❌ Error retrieving explanation.');
         } finally {
             setLoading(false);
         }
     };
 
     return (
-        <div style={{ maxWidth: '600px', margin: '4rem auto', fontFamily: 'sans-serif' }}>
+        <div className="app-container">
             <h1>Fruits to Roots</h1>
             <form onSubmit={handleSubmit}>
                 <label>
-                    What are you curious about? (Enter a fruit) <br />
+                    What are you interested in?
                     <input
                         type="text"
                         value={fruit}
                         onChange={(e) => setFruit(e.target.value)}
-                        placeholder="e.g., space travel"
-                        style={{ width: '100%', padding: '0.5rem', fontSize: '1rem' }}
+                        required
                     />
                 </label>
-                <br />
-                <button
-                    type="submit"
-                    disabled={loading || !fruit}
-                    style={{ marginTop: '1rem', padding: '0.5rem 1rem' }}
-                >
-                    {loading ? 'Thinking...' : 'Find My Root'}
+
+                <label>
+                    Choose an NGSS Standard:
+                    <select value={standardId} onChange={(e) => setStandardId(e.target.value)}>
+                        {standards.map((s) => (
+                            <option key={s.id} value={s.id}>{s.label}</option>
+                        ))}
+                    </select>
+                </label>
+
+                <button type="submit" disabled={loading}>
+                    {loading ? 'Thinking...' : 'Generate Root Explanation'}
                 </button>
             </form>
 
-            {rootResult && (
-                <div style={{ marginTop: '2rem', padding: '1rem', backgroundColor: '#f0f0f0' }}>
-                    <h2>Your Root:</h2>
-                    <p>{rootResult}</p>
+            {response && (
+                <div className="response-output">
+                    <h2>Explanation:</h2>
+                    <ReactMarkdown>{response}</ReactMarkdown>
                 </div>
             )}
         </div>

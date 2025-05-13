@@ -11,20 +11,17 @@ class FruitRootRequest(BaseModel):
 @router.post("/api/fruit")
 async def get_root_explanation(request: FruitRootRequest):
     try:
+        print("🔍 Received request:", request)
+
         root = NGSS_STANDARDS.get(request.standard_id)
         if not root:
+            print(f"❌ Standard {request.standard_id} not found in NGSS_STANDARDS")
             return {"error": f"Standard {request.standard_id} not found."}
 
+        print(f"🌱 Using standard:\n{root}")
         explanation = await generate_root_explanation(request.fruit, root)
+        print("✅ Explanation generated successfully.")
         return {"message": explanation}
     except Exception as e:
+        print("🔥 Exception occurred:", str(e))
         return {"error": str(e)}
-
-import os
-
-@router.get("/debug/env")
-async def debug_env():
-    return {
-        "OPENAI_API_KEY": os.getenv("OPENAI_API_KEY"),
-        "OPENAI_MODEL": os.getenv("OPENAI_MODEL")
-    }

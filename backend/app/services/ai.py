@@ -25,6 +25,8 @@ async def generate_root_explanation(fruit: str, root: dict) -> str:
         f"Can you generate a short explanation of this NGSS standard using \"{fruit}\" as an example?"
     )
 
+    print(prompt)
+
     response = await client.chat.completions.create(
         model=OPENAI_MODEL,
         messages=[

@@ -9,6 +9,7 @@ origins = [
     "http://localhost:5173",  # local dev
     "https://fruitstoroots.vercel.app",  # your Vercel frontend (if deployed)
     "https://fruitstoroots.com",  # future root domain
+    "https://v0-fruits-to-roots.vercel.app"
 ]
 
 app.add_middleware(
