@@ -1,0 +1,3200 @@
+{
+  "HS-PS1-1": {
+    "id": "HS-PS1-1",
+    "description": "HS-PS1-1 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Use a model to predict the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "PS1.A: Structure and Properties of Matter": [
+        "Each atom has a charged substructure consisting of a nucleus, which is made of protons and neutrons, surrounded by electrons."
+      ]
+    },
+    "cccs": {
+      "Patterns": [
+        "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.9-10.7",
+        "description": "Translate quantitative or technical information expressed in words in a text into visual form (e.g., a table or chart) and translate information expressed visually or mathematically (e.g., in an equation) into words."
+      }
+    ]
+  },
+  "HS-PS1-2": {
+    "id": "HS-PS1-2",
+    "description": "HS-PS1-2 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct and revise an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, models, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ]
+    },
+    "dcis": {
+      "PS1.A: Structure and Properties of Matter": [
+        "The periodic table orders elements horizontally by the number of protons in the atom\u2019s nucleus and places those with similar chemical properties in columns. The repeating patterns of this table reflect patterns of outer electron states."
+      ],
+      "PS1.B: Chemical Reactions": [
+        "The fact that atoms are conserved, together with knowledge of the chemical properties of the elements involved, can be used to describe and predict chemical reactions."
+      ]
+    },
+    "cccs": {
+      "Patterns": [
+        "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "WHST.9-12.5",
+        "description": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience."
+      }
+    ]
+  },
+  "HS-PS1-3": {
+    "id": "HS-PS1-3",
+    "description": "HS-PS1-3 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Planning and Carrying Out Investigations": [
+        "Plan and conduct an investigation individually and collaboratively to produce data to serve as the basis for evidence, and in the design: decide on types, how much, and accuracy of data needed to produce reliable measurements and consider limitations on the precision of the data (e.g., number of trials, cost, risk, time), and refine the design accordingly."
+      ]
+    },
+    "dcis": {
+      "PS1.A: Structure and Properties of Matter": [
+        "The structure and interactions of matter at the bulk scale are determined by electrical forces within and between atoms."
+      ],
+      "PS2.B: Types of Interactions": [
+        "Attraction and repulsion between electric charges at the atomic scale explain the structure, properties, and transformations of matter, as well as the contact forces between material objects. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Patterns": [
+        "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      },
+      {
+        "code": "WHST.11-12.8",
+        "description": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-PS1-4": {
+    "id": "HS-PS1-4",
+    "description": "HS-PS1-4 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "PS1.A: Structure and Properties of Matter": [
+        "A stable molecule has less energy than the same set of atoms separated; one must provide at least this energy in order to take the molecule apart."
+      ],
+      "PS1.B: Chemical Reactions": [
+        "Chemical processes, their rates, and whether or not energy is stored or released can be understood in terms of the collisions of molecules and the rearrangements of atoms into new molecules, with consequent changes in the sum of all bond energies in the set of molecules that are matched by changes in kinetic energy."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Changes of energy and matter in a system can be described in terms of energy and matter flows into, out of, and within that system."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-PS1-5": {
+    "id": "HS-PS1-5",
+    "description": "HS-PS1-5 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Apply scientific principles and evidence to provide an explanation of phenomena and solve design problems, taking into account possible unanticipated effects."
+      ]
+    },
+    "dcis": {
+      "PS1.B: Chemical Reactions": [
+        "Chemical processes, their rates, and whether or not energy is stored or released can be understood in terms of the collisions of molecules and the rearrangements of atoms into new molecules, with consequent changes in the sum of all bond energies in the set of molecules that are matched by changes in kinetic energy."
+      ]
+    },
+    "cccs": {
+      "Patterns": [
+        "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-PS1-6": {
+    "id": "HS-PS1-6",
+    "description": "HS-PS1-6 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations."
+      ]
+    },
+    "dcis": {
+      "PS1.B: Chemical Reactions": [
+        "In many situations, a dynamic and condition-dependent balance between a reaction and the reverse reaction determines the numbers of all types of molecules present."
+      ],
+      "ETS1.C: Optimizing the Design Solution": [
+        "Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Much of science deals with constructing explanations of how things change and how they remain stable."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      }
+    ]
+  },
+  "HS-PS1-7": {
+    "id": "HS-PS1-7",
+    "description": "HS-PS1-7 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical representations of phenomena to support claims."
+      ]
+    },
+    "dcis": {
+      "PS1.B: Chemical Reactions": [
+        "The fact that atoms are conserved, together with knowledge of the chemical properties of the elements involved, can be used to describe and predict chemical reactions."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "The total amount of energy and matter in closed systems is conserved."
+      ],
+      "Connections to Nature of Science": [
+        "Science assumes the universe is a vast single system in which basic laws are consistent."
+      ],
+      "Scientific Knowledge Assumes an Order and Consistency in Natural Systems": [
+        "Science assumes the universe is a vast single system in which basic laws are consistent."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": []
+  },
+  "HS-PS1-8": {
+    "id": "HS-PS1-8",
+    "description": "HS-PS1-8 Matter and its Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "PS1.C: Nuclear Processes": [
+        "Nuclear processes, including fusion, fission, and radioactive decays of unstable nuclei, involve release or absorption of energy. The total number of neutrons plus protons does not change in any nuclear process."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "In nuclear processes, atoms are not conserved, but the total number of protons plus neutrons is conserved."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN-Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN-Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN-Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": []
+  },
+  "HS-PS2-1": {
+    "id": "HS-PS2-1",
+    "description": "HS-PS2-1 Motion and Stability: Forces and Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Analyzing and Interpreting Data": [
+        "Analyze data using tools, technologies, and/or models (e.g., computational, mathematical) in order to make valid and reliable scientific claims or determine an optimal design solution."
+      ],
+      "Connections to Nature of Science": [
+        "Theories and laws provide explanations in science.",
+        "Laws are statements or descriptions of the relationships among observable phenomena."
+      ],
+      "Science Models, Laws, Mechanisms, and Theories Explain Natural Phenomena": [
+        "Theories and laws provide explanations in science.",
+        "Laws are statements or descriptions of the relationships among observable phenomena."
+      ]
+    },
+    "dcis": {
+      "PS2.A: Forces and Motion": [
+        "Newton\u2019s second law accurately predicts changes in the motion of macroscopic objects."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      },
+      {
+        "code": "HSA.SSE.A.1",
+        "description": "Interpret expressions that represent a quantity in terms of its context."
+      },
+      {
+        "code": "HSA.SSE.B.3",
+        "description": "Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression."
+      },
+      {
+        "code": "HSA.CED.A.1",
+        "description": "Create equations and inequalities in one variable and use them to solve problems."
+      },
+      {
+        "code": "HSA.CED.A.2",
+        "description": "Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales."
+      },
+      {
+        "code": "HSA.CED.A.4",
+        "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations."
+      },
+      {
+        "code": "HSF-IF.C.7",
+        "description": "Graph functions expressed symbolically and show key features of the graph, by in hand in simple cases and using technology for more complicated cases."
+      },
+      {
+        "code": "HSS-IS.A.1",
+        "description": "Represent data with plots on the real number line (dot plots, histograms, and box plots)."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      },
+      {
+        "code": "WHST.11-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-PS2-2": {
+    "id": "HS-PS2-2",
+    "description": "HS-PS2-2 Motion and Stability: Forces and Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical representations of phenomena to describe explanations."
+      ]
+    },
+    "dcis": {
+      "PS2.A: Forces and Motion": [
+        "Momentum is defined for a particular frame of reference; it is the mass times the velocity of the object.",
+        "If a system interacts with objects outside itself, the total momentum of the system can change; however, any such change is balanced by changes in the momentum of objects outside the system."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "When investigating or describing a system, the boundaries and initial conditions of the system need to be defined."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": []
+  },
+  "HS-PS2-3": {
+    "id": "HS-PS2-3",
+    "description": "HS-PS2-3 Motion and Stability: Forces and Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Apply scientific ideas to solve a design problem, taking into account possible unanticipated effects."
+      ]
+    },
+    "dcis": {
+      "PS2.A: Forces and Motion": [
+        "If a system interacts with objects outside itself, the total momentum of the system can change; however, any such change is balanced by changes in the momentum of objects outside the system."
+      ],
+      "ETS1.A: Defining and Delimiting an Engineering Problem": [
+        "Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them. (secondary)"
+      ],
+      "ETS1.C: Optimizing the Design Solution": [
+        "Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Systems can be designed to cause a desired effect."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.11-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      }
+    ]
+  },
+  "HS-PS2-4": {
+    "id": "HS-PS2-4",
+    "description": "HS-PS2-4 Motion and Stability: Forces and Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical representations of phenomena to describe explanations."
+      ],
+      "Connections to Nature of Science": [
+        "Theories and laws provide explanations in science.",
+        "Laws are statements or descriptions of the relationships among observable phenomena."
+      ],
+      "Science Models, Laws, Mechanisms, and Theories Explain Natural Phenomena": [
+        "Theories and laws provide explanations in science.",
+        "Laws are statements or descriptions of the relationships among observable phenomena."
+      ]
+    },
+    "dcis": {
+      "PS2.B: Types of Interactions": [
+        "Newton\u2019s law of universal gravitation and Coulomb\u2019s law provide the mathematical models to describe and predict the effects of gravitational and electrostatic forces between distant objects.",
+        "Forces at a distance are explained by fields (gravitational, electric, and magnetic) permeating space that can transfer energy through space. Magnets or electric currents cause magnetic fields; electric charges or changing magnetic fields cause electric fields."
+      ]
+    },
+    "cccs": {
+      "Patterns": [
+        "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      },
+      {
+        "code": "HSA.SSE.A.1",
+        "description": "Interpret expressions that represent a quantity in terms of its context."
+      },
+      {
+        "code": "HSA.SSE.B.3",
+        "description": "Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression."
+      }
+    ],
+    "literacy_standards": []
+  },
+  "HS-PS2-5": {
+    "id": "HS-PS2-5",
+    "description": "HS-PS2-5 Motion and Stability: Forces and Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Planning and Carrying Out Investigations": [
+        "Plan and conduct an investigation individually and collaboratively to produce data to serve as the basis for evidence, and in the design: decide on types, how much, and accuracy of data needed to produce reliable measurements and consider limitations on the precision of the data (e.g., number of trials, cost, risk, time), and refine the design accordingly."
+      ]
+    },
+    "dcis": {
+      "PS2.B: Types of Interactions": [
+        "Newton\u2019s law of universal gravitation and Coulomb\u2019s law provide the mathematical models to describe and predict the effects of gravitational and electrostatic forces between distant objects. (HS-PS2-4)",
+        "Forces at a distance are explained by fields (gravitational, electric, and magnetic) permeating space that can transfer energy through space. Magnets or electric currents cause magnetic fields; electric charges or changing magnetic fields cause electric fields."
+      ],
+      "PS3.A: Definitions of Energy": [
+        "\u201cElectrical energy\u201d may mean energy stored in a battery or energy transmitted by electric currents. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "WHST.11-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      },
+      {
+        "code": "WHST.11-12.8",
+        "description": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation."
+      },
+      {
+        "code": "WHST.11-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-PS2-6": {
+    "id": "HS-PS2-6",
+    "description": "HS-PS2-6 Motion and Stability: Forces and Interactions",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Obtaining, Evaluating, and Communicating Information": [
+        "Communicate scientific and technical information (e.g. about the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically)."
+      ]
+    },
+    "dcis": {
+      "PS2.B: Types of Interactions": [
+        "Attraction and repulsion between electric charges at the atomic scale explain the structure, properties, and transformations of matter, as well as the contact forces between material objects."
+      ]
+    },
+    "cccs": {
+      "Structure and Function": [
+        "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.11-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-PS3-1": {
+    "id": "HS-PS3-1",
+    "description": "HS-PS3-1 Energy",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Create a computational model or simulation of a phenomenon, designed device, process, or system."
+      ]
+    },
+    "dcis": {
+      "PS3.A: Definitions of Energy": [
+        "Energy is a quantitative property of a system that depends on the motion and interactions of matter and radiation within that system. That there is a single quantity called energy is due to the fact that a system\u2019s total energy is conserved, even as, within the system, energy is continually transferred from one object to another and between its various possible forms."
+      ],
+      "PS3.B: Conservation of Energy and Energy Transfer": [
+        "Conservation of energy means that the total change of energy in any system is always equal to the total energy transferred into or out of the system.",
+        "Energy cannot be created or destroyed, but it can be transported from one place to another and transferred between systems.",
+        "Mathematical expressions, which quantify how the stored energy in a system depends on its configuration (e.g. relative positions of charged particles, compression of a spring) and how kinetic energy depends on mass and speed, allow the concept of conservation of energy to be used to predict and describe system behavior.",
+        "The availability of energy limits what can occur in any system."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "Models can be used to predict the behavior of a system, but these predictions have limited precision and reliability due to the assumptions and approximations inherent in models."
+      ],
+      "Connections to Nature of Science": [
+        "Science assumes the universe is a vast single system in which basic laws are consistent."
+      ],
+      "Scientific Knowledge Assumes an Order and Consistency in Natural Systems": [
+        "Science assumes the universe is a vast single system in which basic laws are consistent."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-PS3-2": {
+    "id": "HS-PS3-2",
+    "description": "HS-PS3-2 Energy",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop and use a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "PS3.A: Definitions of Energy": [
+        "Energy is a quantitative property of a system that depends on the motion and interactions of matter and radiation within that system. That there is a single quantity called energy is due to the fact that a system\u2019s total energy is conserved, even as, within the system, energy is continually transferred from one object to another and between its various possible forms.",
+        "At the macroscopic scale, energy manifests itself in multiple ways, such as in motion, sound, light, and thermal energy.",
+        "These relationships are better understood at the microscopic scale, at which all of the different manifestations of energy can be modeled as a combination of energy associated with the motion of particles and energy associated with the configuration (relative position of the particles). In some cases the relative position energy can be thought of as stored in fields (which mediate interactions between particles). This last concept includes radiation, a phenomenon in which energy stored in fields moves across space."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Energy cannot be created or destroyed\u2014only moves between one place and another place, between objects and/or fields, or between systems."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-PS3-3": {
+    "id": "HS-PS3-3",
+    "description": "HS-PS3-3 Energy",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Design, evaluate, and/or refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations."
+      ]
+    },
+    "dcis": {
+      "PS3.A: Definitions of Energy": [
+        "At the macroscopic scale, energy manifests itself in multiple ways, such as in motion, sound, light, and thermal energy."
+      ],
+      "PS3.D: Energy in Chemical Processes": [
+        "Although energy cannot be destroyed, it can be converted to less useful forms\u2014for example, to thermal energy in the surrounding environment."
+      ],
+      "ETS1.A: Defining and Delimiting an Engineering Problem": [
+        "Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Changes of energy and matter in a system can be described in terms of energy and matter flows into, out of, and within that system."
+      ],
+      "Connections to Engineering,Technology, and Applications of Science": [],
+      "Influence of Science, Engineering and Technology on Society and the Natural World": []
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      }
+    ]
+  },
+  "HS-PS3-4": {
+    "id": "HS-PS3-4",
+    "description": "HS-PS3-4 Energy",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Planning and Carrying Out Investigations": [
+        "Plan and conduct an investigation individually and collaboratively to produce data to serve as the basis for evidence, and in the design: decide on types, how much, and accuracy of data needed to produce reliable measurements and consider limitations on the precision of the data (e.g., number of trials, cost, risk, time), and refine the design accordingly."
+      ]
+    },
+    "dcis": {
+      "PS3.B: Conservation of Energy and Energy Transfer": [
+        "Energy cannot be created or destroyed, but it can be transported from one place to another and transferred between systems.",
+        "Uncontrolled systems always evolve toward more stable states\u2014that is, toward more uniform energy distribution (e.g., water flows downhill, objects hotter than their surrounding environment cool down)."
+      ],
+      "PS3.D: Energy in Chemical Processes": [
+        "Although energy cannot be destroyed, it can be converted to less useful forms\u2014for example, to thermal energy in the surrounding environment."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "When investigating or describing a system, the boundaries and initial conditions of the system need to be defined and their inputs and outputs analyzed and described using models."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      },
+      {
+        "code": "WHST.11-12.8",
+        "description": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-PS3-5": {
+    "id": "HS-PS3-5",
+    "description": "HS-PS3-5 Energy",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop and use a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "PS3.C: Relationship Between Energy and Forces": [
+        "When two objects interacting through a field change relative position, the energy stored in the field is changed."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Cause and effect relationships can be suggested and predicted for complex natural and human designed systems by examining what is known about smaller scale mechanisms within the system."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      },
+      {
+        "code": "WHST.11-12.8",
+        "description": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      },
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-PS4-1": {
+    "id": "HS-PS4-1",
+    "description": "HS-PS4-1 Waves and their Applications in Technologies for Information Transfer",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical representations of phenomena or design solutions to describe and/or support claims and/or explanations."
+      ]
+    },
+    "dcis": {
+      "PS4.A: Wave Properties": [
+        "The wavelength and frequency of a wave are related to one another by the speed of travel of the wave, which depends on the type of wave and the medium through which it is passing."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSA-SSE.A.1",
+        "description": "Interpret expressions that represent a quantity in terms of its context."
+      },
+      {
+        "code": "HSA-SSE.B.3",
+        "description": "Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression."
+      },
+      {
+        "code": "HSA.CED.A.4",
+        "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      }
+    ]
+  },
+  "HS-PS4-2": {
+    "id": "HS-PS4-2",
+    "description": "HS-PS4-2 Waves and their Applications in Technologies for Information Transfer",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Asking Questions and Defining Problems": [
+        "Evaluate questions that challenge the premise(s) of an argument, the interpretation of a data set, or the suitability of a design."
+      ]
+    },
+    "dcis": {
+      "PS4.A: Wave Properties": [
+        "Information can be digitized (e.g., a picture stored as the values of an array of pixels); in this form, it can be stored reliably in computer memory and sent over long distances as a series of wave pulses."
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Systems can be designed for greater or lesser stability."
+      ],
+      "Connections to Engineering, Technology, and Applications of Science": [],
+      "Influence of Engineering, Technology, and Science on Society and the Natural World": [
+        "Modern civilization depends on major technological systems.",
+        "Engineers continuously modify these technological systems by applying scientific knowledge and engineering design practices to increase benefits while decreasing costs and risks."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.9-10.8",
+        "description": "Assess the extent to which the reasoning and evidence in a text support the author\u2019s claim or a recommendation for solving a scientific or technical problem."
+      },
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      }
+    ]
+  },
+  "HS-PS4-3": {
+    "id": "HS-PS4-3",
+    "description": "HS-PS4-3 Waves and their Applications in Technologies for Information Transfer",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Evaluate the claims, evidence, and reasoning behind currently accepted explanations or solutions to determine the merits of arguments."
+      ],
+      "Connections to Nature of Science": [],
+      "Science Models, Laws, Mechanisms, and Theories Explain Natural Phenomena": [
+        "A scientific theory is a substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment and the science community validates each theory before it is accepted. If new evidence is discovered that the theory does not accommodate, the theory is generally modified in light of this new evidence."
+      ]
+    },
+    "dcis": {
+      "PS4.A: Wave Properties": [
+        "[From the 3\u20135 grade band endpoints] Waves can add or cancel one another as they cross, depending on their relative phase (i.e., relative position of peaks and troughs of the waves), but they emerge unaffected by each other. (Boundary: The discussion at this grade level is qualitative only; it can be based on the fact that two different sounds can pass a location in different directions without getting mixed up.)"
+      ],
+      "PS4.B: Electromagnetic Radiation": [
+        "Electromagnetic radiation (e.g., radio, microwaves, light) can be modeled as a wave of changing electric and magnetic fields or as particles called photons. The wave model is useful for explaining many features of electromagnetic radiation, and the particle model explains other features."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions\u2014including energy, matter, and information flows\u2014within and between systems at different scales."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSA-SSE.A.1",
+        "description": "Interpret expressions that represent a quantity in terms of its context."
+      },
+      {
+        "code": "HSA-SSE.B.3",
+        "description": "Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression."
+      },
+      {
+        "code": "HSA.CED.A.4",
+        "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.9-10.8",
+        "description": "Assess the extent to which the reasoning and evidence in a text support the author\u2019s claim or a recommendation for solving a scientific or technical problem."
+      },
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      }
+    ]
+  },
+  "HS-PS4-4": {
+    "id": "HS-PS4-4",
+    "description": "HS-PS4-4 Waves and their Applications in Technologies for Information Transfer",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Obtaining, Evaluating, and Communicating Information": [
+        "Evaluate the validity and reliability of multiple claims that appear in scientific and technical texts or media reports, verifying the data when possible."
+      ]
+    },
+    "dcis": {
+      "PS4.B: Electromagnetic Radiation": [
+        "When light or longer wavelength electromagnetic radiation is absorbed in matter, it is generally converted into thermal energy (heat). Shorter wavelength electromagnetic radiation (ultraviolet, X-rays, gamma rays) can ionize atoms and cause damage to living cells."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Cause and effect relationships can be suggested and predicted for complex natural and human designed systems by examining what is known about smaller scale mechanisms within the system."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.9-10.8",
+        "description": "Assess the extent to which the reasoning and evidence in a text support the author\u2019s claim or a recommendation for solving a scientific or technical problem."
+      },
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      },
+      {
+        "code": "WHST.11-12.8",
+        "description": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation."
+      }
+    ]
+  },
+  "HS-PS4-5": {
+    "id": "HS-PS4-5",
+    "description": "HS-PS4-5 Waves and their Applications in Technologies for Information Transfer",
+    "domain": "Physical Science",
+    "topic": null,
+    "seps": {
+      "Obtaining, Evaluating, and Communicating Information": [
+        "Communicate technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically)."
+      ]
+    },
+    "dcis": {
+      "PS3.D: Energy in Chemical Processes": [
+        "Solar cells are human-made devices that likewise capture the sun\u2019s energy and produce electrical energy. (secondary)"
+      ],
+      "PS4.A: Wave Properties": [
+        "Information can be digitized (e.g., a picture stored as the values of an array of pixels); in this form, it can be stored reliably in computer memory and sent over long distances as a series of wave pulses."
+      ],
+      "PS4.B: Electromagnetic Radiation": [
+        "Photoelectric materials emit electrons when they absorb light of a high-enough frequency."
+      ],
+      "PS4.C: Information Technologies and Instrumentation": [
+        "Multiple technologies based on the understanding of waves and their interactions with matter are part of everyday experiences in the modern world (e.g., medical imaging, communications, scanners) and in scientific research. They are essential tools for producing, transmitting, and capturing signals and for storing and interpreting the information contained in them."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Systems can be designed to cause a desired effect."
+      ],
+      "Connections to Engineering, Technology, and Applications of Science": [],
+      "Interdependence of Science, Engineering, and Technology": [
+        "Science and engineering complement each other in the cycle known as research and development (R&D)."
+      ],
+      "Influence of Engineering, Technology, and Science on Society and the Natural World": [
+        "Modern civilization depends on major technological systems."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-ESS1-1": {
+    "id": "HS-ESS1-1",
+    "description": "HS-ESS1-1 Earth's Place in the Universe",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "ESS1.A: The Universe and Its Stars": [
+        "The star called the sun is changing and will burn out over a lifespan of approximately 10 billion years."
+      ],
+      "PS3.D: Energy in Chemical Processes and Everyday Life": [
+        "Nuclear Fusion processes in the center of the sun release the energy that ultimately reaches Earth as radiation. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Scale, Proportion, and Quantity": [
+        "The significance of a phenomenon is dependent on the scale, proportion, and quantity at which it occurs."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN-Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN-Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN-Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      },
+      {
+        "code": "HSA-SSE.A.1",
+        "description": "Interpret expressions that represent a quantity in terms of its context."
+      },
+      {
+        "code": "HSA-CED.A.2",
+        "description": "Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales."
+      },
+      {
+        "code": "HSA-CED.A.4",
+        "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      }
+    ]
+  },
+  "HS-ESS1-2": {
+    "id": "HS-ESS1-2",
+    "description": "HS-ESS1-2 Earth's Place in the Universe",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ],
+      "Connections to Nature of Science": [
+        "A scientific theory is a substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment and the science community validates each theory before it is accepted. If new evidence is discovered that the theory does not accommodate, the theory is generally modified in light of this new evidence."
+      ],
+      "Science Models, Laws, Mechanisms, and Theories Explain Natural Phenomena": [
+        "A scientific theory is a substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment and the science community validates each theory before it is accepted. If new evidence is discovered that the theory does not accommodate, the theory is generally modified in light of this new evidence."
+      ]
+    },
+    "dcis": {
+      "ESS1.A: The Universe and Its Stars": [
+        "The study of stars\u2019 light spectra and brightness is used to identify compositional elements of stars, their movements, and their distances from Earth.",
+        "The Big Bang theory is supported by observations of distant galaxies receding from our own, of the measured composition of stars and non-stellar gases, and of the maps of spectra of the primordial radiation (cosmic microwave background) that still fills the universe.",
+        "Other than the hydrogen and helium formed at the time of the Big Bang, nuclear fusion within stars produces all atomic nuclei lighter than and including iron, and the process releases electromagnetic energy. Heavier elements are produced when certain massive stars achieve a supernova stage and explode."
+      ],
+      "PS4.B: Electromagnetic Radiation": [
+        "Atoms of each element emit and absorb characteristic frequencies of light. These characteristics allow identification of the presence of an element, even in microscopic quantities. (secondary)"
+      ],
+      "": []
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Energy cannot be created or destroyed\u2013only moved between one place and another place, between objects and/or fields, or between systems."
+      ],
+      "Connections to Engineering,Technology, and Applications of Science": [
+        "Science and engineering complement each other in the cycle known as research and development (R&D). Many R&D projects may involve scientists, engineers, and others with wide ranges of expertise."
+      ],
+      "Interdependence of Science, Engineering, and Technology": [
+        "Science and engineering complement each other in the cycle known as research and development (R&D). Many R&D projects may involve scientists, engineers, and others with wide ranges of expertise."
+      ],
+      "Connections to Nature of Science": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future.",
+        "Science assumes the universe is a vast single system in which basic laws are consistent."
+      ],
+      "Scientific Knowledge Assumes an Order and Consistency in Natural Systems": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future.",
+        "Science assumes the universe is a vast single system in which basic laws are consistent."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSN-Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN-Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN-Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      },
+      {
+        "code": "HSA-SSE.A.1",
+        "description": "Interpret expressions that represent a quantity in terms of its context."
+      },
+      {
+        "code": "HSA-CED.A.2",
+        "description": "Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales."
+      },
+      {
+        "code": "HSA-CED.A.4",
+        "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-ESS1-3": {
+    "id": "HS-ESS1-3",
+    "description": "HS-ESS1-3 Earth's Place in the Universe",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Obtaining, Evaluating, and Communicating Information": [
+        "Communicate scientific ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically)."
+      ]
+    },
+    "dcis": {
+      "ESS1.A: The Universe and Its Stars": [
+        "The study of stars\u2019 light spectra and brightness is used to identify compositional elements of stars, their movements, and their distances from Earth.",
+        "Other than the hydrogen and helium formed at the time of the Big Bang, nuclear fusion within stars produces all atomic nuclei lighter than and including iron, and the process releases electromagnetic energy. Heavier elements are produced when certain massive stars achieve a supernova stage and explode."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "In nuclear processes, atoms are not conserved, but the total number of protons plus neutrons is conserved."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "SL.11-12.4",
+        "description": "Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation."
+      }
+    ]
+  },
+  "HS-ESS1-4": {
+    "id": "HS-ESS1-4",
+    "description": "HS-ESS1-4 Earth's Place in the Universe",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Using Mathematical and Computational Thinking": [
+        "Use mathematical or computational representations of phenomena to describe explanations."
+      ]
+    },
+    "dcis": {
+      "ESS1.B: Earth and the Solar System": [
+        "Kepler\u2019s laws describe common features of the motions of orbiting objects, including their elliptical paths around the sun. Orbits may change due to the gravitational effects from, or collisions with, other objects in the solar system."
+      ]
+    },
+    "cccs": {
+      "Scale, Proportion, and Quantity": [
+        "Algebraic thinking is used to examine scientific data and predict the effect of a change in one variable on another (e.g., linear growth vs. exponential growth)."
+      ],
+      "Connections to Engineering,Technology, and Applications of Science": [
+        "Science and engineering complement each other in the cycle known as research and development (R&D). Many R&D projects may involve scientists, engineers, and others with wide ranges of expertise."
+      ],
+      "Interdependence of Science, Engineering, and Technology": [
+        "Science and engineering complement each other in the cycle known as research and development (R&D). Many R&D projects may involve scientists, engineers, and others with wide ranges of expertise."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN-Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN-Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN-Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      },
+      {
+        "code": "HSA-SSE.A.1",
+        "description": "Interpret expressions that represent a quantity in terms of its context."
+      },
+      {
+        "code": "HSA-CED.A.2",
+        "description": "Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales."
+      },
+      {
+        "code": "HSA-CED.A.4",
+        "description": "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations."
+      }
+    ],
+    "literacy_standards": []
+  },
+  "HS-ESS1-5": {
+    "id": "HS-ESS1-5",
+    "description": "HS-ESS1-5 Earth's Place in the Universe",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Evaluate evidence behind currently accepted explanations or solutions to determine the merits of arguments."
+      ]
+    },
+    "dcis": {
+      "ESS1.C: The History of Planet Earth": [
+        "Continental rocks, which can be older than 4 billion years, are generally much older than the rocks of the ocean floor, which are less than 200 million years old."
+      ],
+      "ESS2.B: Plate Tectonics and Large-Scale System Interactions": [
+        "Plate tectonics is the unifying theory that explains the past and current movements of the rocks at Earth\u2019s surface and provides a framework for understanding its geologic history. (ESS2.B Grade 8 GBE) (secondary)"
+      ],
+      "PS1.C: Nuclear Processes": [
+        "Spontaneous radioactive decays follow a characteristic exponential decay law. Nuclear lifetimes allow radiometric dating to be used to determine the ages of rocks and other materials. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Patterns": [
+        "Empirical evidence is needed to identify patterns."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSN-Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN-Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN-Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-ESS1-6": {
+    "id": "HS-ESS1-6",
+    "description": "HS-ESS1-6 Earth's Place in the Universe",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Apply scientific reasoning to link evidence to the claims to assess the extent to which the reasoning and data support the explanation or conclusion."
+      ],
+      "Connections to Nature of Science": [
+        "A scientific theory is a substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment and the science community validates each theory before it is accepted. If new evidence is discovered that the theory does not accommodate, the theory is generally modified in light of this new evidence.",
+        "Models, mechanisms, and explanations collectively serve as tools in the development of a scientific theory."
+      ],
+      "Science Models, Laws, Mechanisms, and Theories Explain Natural Phenomena": [
+        "A scientific theory is a substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment and the science community validates each theory before it is accepted. If new evidence is discovered that the theory does not accommodate, the theory is generally modified in light of this new evidence.",
+        "Models, mechanisms, and explanations collectively serve as tools in the development of a scientific theory."
+      ]
+    },
+    "dcis": {
+      "ESS1.C: The History of Planet Earth": [
+        "Although active geologic processes, such as plate tectonics and erosion, have destroyed or altered most of the very early rock record on Earth, other objects in the solar system, such as lunar rocks, asteroids, and meteorites, have changed little over billions of years. Studying these objects can provide information about Earth\u2019s formation and early history."
+      ],
+      "PS1.C: Nuclear Processes": [
+        "Spontaneous radioactive decays follow a characteristic exponential decay law. Nuclear lifetimes allow radiometric dating to be used to determine the ages of rocks and other materials. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Much of science deals with constructing explanations of how things change and how they remain stable."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSN-Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN-Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN-Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      },
+      {
+        "code": "HSF-IF.B.5",
+        "description": "Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes."
+      },
+      {
+        "code": "HSS-ID.B.6",
+        "description": "Represent data on two quantitative variables on a scatter plot, and describe how those variables are related."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      },
+      {
+        "code": "WHST.9-12.1",
+        "description": "Write arguments focused on discipline-specific content."
+      }
+    ]
+  },
+  "HS-ESS2-1": {
+    "id": "HS-ESS2-1",
+    "description": "HS-ESS2-1 Earth's Systems",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "ESS2.A: Earth Materials and Systems": [
+        "Earth\u2019s systems, being dynamic and interacting, cause feedback effects that can increase or decrease the original changes."
+      ],
+      "ESS2.B: Plate Tectonics and Large-Scale System Interactions": [
+        "Plate tectonics is the unifying theory that explains the past and current movements of the rocks at Earth\u2019s surface and provides a framework for understanding its geologic history. Plate movements are responsible for most continental and ocean-floor features and for the distribution of most rocks and minerals within Earth\u2019s crust. (ESS2.B Grade 8 GBE)"
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Change and rates of change can be quantified and modeled over very short or very long periods of time. Some system changes are irreversible."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-ESS2-2": {
+    "id": "HS-ESS2-2",
+    "description": "HS-ESS2-2 Earth's Systems",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Analyzing and Interpreting Data": [
+        "Analyze data using tools, technologies, and/or models (e.g., computational, mathematical) in order to make valid and reliable scientific claims or determine an optimal design solution."
+      ]
+    },
+    "dcis": {
+      "ESS2.A: Earth Materials and Systems": [
+        "Earth\u2019s systems, being dynamic and interacting, cause feedback effects that can increase or decrease the original changes."
+      ],
+      "ESS2.D: Weather and Climate": [
+        "The foundation for Earth\u2019s global climate systems is the electromagnetic radiation from the sun, as well as its reflection, absorption, storage, and redistribution among the atmosphere, ocean, and land systems, and this energy\u2019s re-radiation into space."
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Feedback (negative or positive) can stabilize or destabilize a system."
+      ],
+      "Connections to Engineering,Technology, and Applications of Science": [
+        "New technologies can have deep impacts on society and the environment, including some that were not anticipated. Analysis of costs and benefits is a critical aspect of decisions about technology."
+      ],
+      "Influence of Engineering, Technology, and Science on Society and the Natural World": [
+        "New technologies can have deep impacts on society and the environment, including some that were not anticipated. Analysis of costs and benefits is a critical aspect of decisions about technology."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.2",
+        "description": "Determine the central ideas or conclusions of a text; summarize complex concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms."
+      }
+    ]
+  },
+  "HS-ESS2-3": {
+    "id": "HS-ESS2-3",
+    "description": "HS-ESS2-3 Earth's Systems",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ],
+      "Connections to Nature of Science": [
+        "Science knowledge is based on empirical evidence.",
+        "Science disciplines share common rules of evidence used to evaluate explanations about natural systems.",
+        "Science includes the process of coordinating patterns of evidence with current theory."
+      ],
+      "Scientific Knowledge is Based on Empirical Evidence": [
+        "Science knowledge is based on empirical evidence.",
+        "Science disciplines share common rules of evidence used to evaluate explanations about natural systems.",
+        "Science includes the process of coordinating patterns of evidence with current theory."
+      ]
+    },
+    "dcis": {
+      "ESS2.A: Earth Materials and Systems": [
+        "Evidence from deep probes and seismic waves, reconstructions of historical changes in Earth\u2019s surface and its magnetic field, and an understanding of physical and chemical processes lead to a model of Earth with a hot but solid inner core, a liquid outer core, a solid mantle and crust. Motions of the mantle and its plates occur primarily through thermal convection, which involves the cycling of matter due to the outward flow of energy from Earth\u2019s interior and gravitational movement of denser materials toward the interior."
+      ],
+      "ESS2.B: Plate Tectonics and Large-Scale System Interactions": [
+        "The radioactive decay of unstable isotopes continually generates new energy within Earth\u2019s crust and mantle, providing the primary source of the heat that drives mantle convection. Plate tectonics can be viewed as the surface expression of mantle convection."
+      ],
+      "PS4.A: Wave Properties": [
+        "Geologists use seismic waves and their reflection at interfaces between layers to probe structures deep in the planet. (secondary to HS-ESS2-3)"
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Energy drives the cycling of matter within and between systems."
+      ],
+      "Connections to Engineering,Technology, and Applications of Science": [
+        "Science and engineering complement each other in the cycle known as research and development (R&D). Many R&D projects may involve scientists, engineers, and others with wide ranges of expertise."
+      ],
+      "Interdependence of Science, Engineering, and Technology": [
+        "Science and engineering complement each other in the cycle known as research and development (R&D). Many R&D projects may involve scientists, engineers, and others with wide ranges of expertise."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-ESS2-4": {
+    "id": "HS-ESS2-4",
+    "description": "HS-ESS2-4 Earth's Systems",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Use a model to provide mechanistic accounts of phenomena."
+      ],
+      "Connections to Nature of Science": [
+        "Science arguments are strengthened by multiple lines of evidence supporting a single explanation."
+      ],
+      "Scientific Knowledge is Based on Empirical Evidence": [
+        "Science arguments are strengthened by multiple lines of evidence supporting a single explanation."
+      ]
+    },
+    "dcis": {
+      "ESS1.B: Earth and the Solar System": [
+        "Cyclical changes in the shape of Earth\u2019s orbit around the sun, together with changes in the tilt of the planet\u2019s axis of rotation, both occurring over hundreds of thousands of years, have altered the intensity and distribution of sunlight falling on the earth. These phenomena cause a cycle of ice ages and other gradual climate changes. (secondary)"
+      ],
+      "ESS2.A: Earth Materials and Systems": [
+        "The geological record shows that changes to global and regional climate can be caused by interactions among changes in the sun\u2019s energy output or Earth\u2019s orbit, tectonic events, ocean circulation, volcanic activity, glaciers, vegetation, and human activities. These changes can occur on a variety of time scales from sudden (e.g., volcanic ash clouds) to intermediate (ice ages) to very long-term tectonic cycles."
+      ],
+      "ESS2.D: Weather and Climate": [
+        "The foundation for Earth\u2019s global climate systems is the electromagnetic radiation from the sun, as well as its reflection, absorption, storage, and redistribution among the atmosphere, ocean, and land systems, and this energy\u2019s re-radiation into space."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-ESS2-5": {
+    "id": "HS-ESS2-5",
+    "description": "HS-ESS2-5 Earth's Systems",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Planning and Carrying Out Investigations": [
+        "Plan and conduct an investigation individually and collaboratively to produce data to serve as the basis for evidence, and in the design: decide on types, how much, and accuracy of data needed to produce reliable measurements and consider limitations on the precision of the data (e.g., number of trials, cost, risk, time), and refine the design accordingly."
+      ]
+    },
+    "dcis": {
+      "ESS2.C: The Roles of Water in Earth's Surface Processes": [
+        "The abundance of liquid water on Earth\u2019s surface and its unique combination of physical and chemical properties are central to the planet\u2019s dynamics. These properties include water\u2019s exceptional capacity to absorb, store, and release large amounts of energy, transmit sunlight, expand upon freezing, dissolve and transport materials, and lower the viscosities and melting points of rocks."
+      ]
+    },
+    "cccs": {
+      "Structure and Function": [
+        "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      }
+    ]
+  },
+  "HS-ESS2-6": {
+    "id": "HS-ESS2-6",
+    "description": "HS-ESS2-6 Earth's Systems",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "ESS2.D: Weather and Climate": [
+        "Gradual atmospheric changes were due to plants and other organisms that captured carbon dioxide and released oxygen.",
+        "Changes in the atmosphere due to human activity have increased carbon dioxide concentrations and thus affect climate."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "The total amount of energy and matter in closed systems is conserved."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": []
+  },
+  "HS-ESS2-7": {
+    "id": "HS-ESS2-7",
+    "description": "HS-ESS2-7 Earth's Systems",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Construct an oral and written argument or counter-arguments based on data and evidence."
+      ]
+    },
+    "dcis": {
+      "ESS2.D: Weather and Climate": [
+        "Gradual atmospheric changes were due to plants and other organisms that captured carbon dioxide and released oxygen."
+      ],
+      "ESS2.E Biogeology": [
+        "The many dynamic and delicate feedbacks between the biosphere and other Earth systems cause a continual co-evolution of Earth\u2019s surface and the life that exists on it."
+      ],
+      "": []
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Much of science deals with constructing explanations of how things change and how they remain stable."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.1",
+        "description": "Write arguments focused on discipline-specific content."
+      }
+    ]
+  },
+  "HS-ESS3-1": {
+    "id": "HS-ESS3-1",
+    "description": "HS-ESS3-1 Earth and Human Activity",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, models, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ]
+    },
+    "dcis": {
+      "ESS3.A: Natural Resources": [
+        "Resource availability has guided the development of human society."
+      ],
+      "ESS3.B: Natural Hazards": [
+        "Natural hazards and other geologic events have shaped the course of human history; [they] have significantly altered the sizes of human populations and have driven human migrations."
+      ],
+      "": []
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ],
+      "Connections to Engineering, Technology, and Applications of Science": [
+        "Modern civilization depends on major technological systems."
+      ],
+      "Influence of Science, Engineering, and Technology on Society and the Natural World": [
+        "Modern civilization depends on major technological systems."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-ESS3-2": {
+    "id": "HS-ESS3-2",
+    "description": "HS-ESS3-2 Earth and Human Activity",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Evaluate competing design solutions to a real-world problem based on scientific ideas and principles, empirical evidence, and logical arguments regarding relevant factors (e.g. economic, societal, environmental, ethical considerations)."
+      ]
+    },
+    "dcis": {
+      "ESS3.A: Natural Resources": [
+        "All forms of energy production and other resource extraction have associated economic, social, environmental, and geopolitical costs and risks as well as benefits. New technologies and social regulations can change the balance of these factors."
+      ],
+      "ETS1.B: Developing Possible Solutions": [
+        "When evaluating solutions, it is important to take into account a range of constraints, including cost, safety, reliability, and aesthetics, and to consider social, cultural, and environmental impacts. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Connections to Engineering, Technology, and Applications of Science": [
+        "Engineers continuously modify these technological systems by applying scientific knowledge and engineering design practices to increase benefits while decreasing costs and risks.",
+        "Analysis of costs and benefits is a critical aspect of decisions about technology."
+      ],
+      "Influence of Science, Engineering, and Technology on Society and the Natural World": [
+        "Engineers continuously modify these technological systems by applying scientific knowledge and engineering design practices to increase benefits while decreasing costs and risks.",
+        "Analysis of costs and benefits is a critical aspect of decisions about technology."
+      ],
+      "Connections to Nature of Science": [
+        "Science and technology may raise ethical issues for which science, by itself, does not provide answers and solutions.",
+        "Science knowledge indicates what can happen in natural systems\u2014not what should happen. The latter involves ethics, values, and human decisions about the use of knowledge.",
+        "Many decisions are not made using science alone, but rely on social and cultural contexts to resolve issues."
+      ],
+      "Science Addresses Questions About the Natural and Material World": [
+        "Science and technology may raise ethical issues for which science, by itself, does not provide answers and solutions.",
+        "Science knowledge indicates what can happen in natural systems\u2014not what should happen. The latter involves ethics, values, and human decisions about the use of knowledge.",
+        "Many decisions are not made using science alone, but rely on social and cultural contexts to resolve issues."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      }
+    ]
+  },
+  "HS-ESS3-3": {
+    "id": "HS-ESS3-3",
+    "description": "HS-ESS3-3 Earth and Human Activity",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Create a computational model or simulation of a phenomenon, designed device, process, or system."
+      ]
+    },
+    "dcis": {
+      "ESS3.C: Human Impacts on Earth Systems": [
+        "The sustainability of human societies and the biodiversity that supports them requires responsible management of natural resources."
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Change and rates of change can be quantified and modeled over very short or very long periods of time. Some system changes are irreversible."
+      ],
+      "Connections to Engineering, Technology, and Applications of Science": [
+        "Modern civilization depends on major technological systems.",
+        "New technologies can have deep impacts on society and the environment, including some that were not anticipated."
+      ],
+      "Influence of Science, Engineering, and Technology on Society and the Natural World": [
+        "Modern civilization depends on major technological systems.",
+        "New technologies can have deep impacts on society and the environment, including some that were not anticipated."
+      ],
+      "Connections to Nature of Science": [
+        "Science is a result of human endeavors, imagination, and creativity."
+      ],
+      "Science is a Human Endeavor": [
+        "Science is a result of human endeavors, imagination, and creativity."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      }
+    ],
+    "literacy_standards": []
+  },
+  "HS-ESS3-4": {
+    "id": "HS-ESS3-4",
+    "description": "HS-ESS3-4 Earth and Human Activity",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Design or refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations."
+      ]
+    },
+    "dcis": {
+      "ESS3.C: Human Impacts on Earth Systems": [
+        "Scientists and engineers can make major contributions by developing technologies that produce less pollution and waste and that preclude ecosystem degradation."
+      ],
+      "ETS1.B: Developing Possible Solutions": [
+        "When evaluating solutions, it is important to take into account a range of constraints, including cost, safety, reliability, and aesthetics, and to consider social, cultural, and environmental impacts. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Feedback (negative or positive) can stabilize or destabilize a system."
+      ],
+      "Connections to Engineering, Technology, and Applications of Science": [
+        "Engineers continuously modify these technological systems by applying scientific knowledge and engineering design practices to increase benefits while decreasing costs and risks."
+      ],
+      "Influence of Science, Engineering, and Technology on Society and the Natural World": [
+        "Engineers continuously modify these technological systems by applying scientific knowledge and engineering design practices to increase benefits while decreasing costs and risks."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      }
+    ]
+  },
+  "HS-ESS3-5": {
+    "id": "HS-ESS3-5",
+    "description": "HS-ESS3-5 Earth and Human Activity",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Analyzing and Interpreting Data": [
+        "Analyze data using computational models in order to make valid and reliable scientific claims."
+      ],
+      "Connections to Nature of Science": [
+        "Science investigations use diverse methods and do not always use the same set of procedures to obtain data.",
+        "New technologies advance scientific knowledge."
+      ],
+      "Scientific Investigations Use a Variety of Methods": [
+        "Science investigations use diverse methods and do not always use the same set of procedures to obtain data.",
+        "New technologies advance scientific knowledge."
+      ],
+      "Scientific Knowledge is Based on Empirical Evidence": [
+        "Science knowledge is based on empirical evidence.",
+        "Science arguments are strengthened by multiple lines of evidence supporting a single explanation."
+      ]
+    },
+    "dcis": {
+      "ESS3.D: Global Climate Change": [
+        "Though the magnitudes of human impacts are greater than they have ever been, so too are human abilities to model, predict, and manage current and future impacts."
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Change and rates of change can be quantified and modeled over very short or very long periods of time. Some system changes are irreversible."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.2",
+        "description": "Determine the central ideas or conclusions of a text; summarize complex concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms."
+      },
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      }
+    ]
+  },
+  "HS-ESS3-6": {
+    "id": "HS-ESS3-6",
+    "description": "HS-ESS3-6 Earth and Human Activity",
+    "domain": "Earth and Space Sciences",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use a computational representation of phenomena or design solutions to describe and/or support claims and/or explanations."
+      ]
+    },
+    "dcis": {
+      "ESS2.D: Weather and Climate": [
+        "Current models predict that, although future regional climate changes will be complex and varied, average global temperatures will continue to rise. The outcomes predicted by global climate models strongly depend on the amounts of human-generated greenhouse gases added to the atmosphere each year and by the ways in which these gases are absorbed by the ocean and biosphere. (secondary)"
+      ],
+      "ESS3.D: Global Climate Change": [
+        "Through computer simulations and other studies, important discoveries are still being made about how the ocean, the atmosphere, and the biosphere interact and are modified in response to human activities."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "When investigating or describing a system, the boundaries and initial conditions of the system need to be defined and their inputs and outputs analyzed and described using models."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": []
+  },
+  "HS-LS1-1": {
+    "id": "HS-LS1-1",
+    "description": "HS-LS1-1 From Molecules to Organisms: Structures and Processes",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, models, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ]
+    },
+    "dcis": {
+      "LS1.A: Structure and Function": [
+        "Systems of specialized cells within organisms help them perform the essential functions of life."
+      ]
+    },
+    "cccs": {
+      "Structure and Function": [
+        "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-LS1-2": {
+    "id": "HS-LS1-2",
+    "description": "HS-LS1-2 From Molecules to Organisms: Structures and Processes",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop and use a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "LS1.A: Structure and Function": [
+        "Multicellular organisms have a hierarchical structural organization, in which any one system is made up of numerous parts and is itself a component of the next level."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions\u2014including energy, matter, and information flows\u2014within and between systems at different scales."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-LS1-3": {
+    "id": "HS-LS1-3",
+    "description": "HS-LS1-3 From Molecules to Organisms: Structures and Processes",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Planning and Carrying Out Investigations": [
+        "Plan and conduct an investigation individually and collaboratively to produce data to serve as the basis for evidence, and in the design: decide on types, how much, and accuracy of data needed to produce reliable measurements and consider limitations on the precision of the data (e.g., number of trials, cost, risk, time), and refine the design accordingly."
+      ],
+      "Connections to Nature of Science": [
+        "Scientific inquiry is characterized by a common set of values that include: logical thinking, precision, open-mindedness, objectivity, skepticism, replicability of results, and honest and ethical reporting of findings."
+      ],
+      "Scientific Investigations Use a Variety of Methods": [
+        "Scientific inquiry is characterized by a common set of values that include: logical thinking, precision, open-mindedness, objectivity, skepticism, replicability of results, and honest and ethical reporting of findings."
+      ],
+      "LS1.A: Structure and Function": [
+        "Feedback mechanisms maintain a living system\u2019s internal conditions within certain limits and mediate behaviors, allowing it to remain alive and functional even as external conditions change within some range. Feedback mechanisms can encourage (through positive feedback) or discourage (negative feedback) what is going on inside the living system."
+      ],
+      "Stability and Change": [
+        "Feedback (negative or positive) can stabilize or destabilize a system."
+      ]
+    },
+    "dcis": {
+      "LS1.A: Structure and Function": [
+        "Feedback mechanisms maintain a living system\u2019s internal conditions within certain limits and mediate behaviors, allowing it to remain alive and functional even as external conditions change within some range. Feedback mechanisms can encourage (through positive feedback) or discourage (negative feedback) what is going on inside the living system."
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Feedback (negative or positive) can stabilize or destabilize a system."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      },
+      {
+        "code": "WHST.11-12.8",
+        "description": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation."
+      }
+    ]
+  },
+  "HS-LS1-4": {
+    "id": "HS-LS1-4",
+    "description": "HS-LS1-4 From Molecules to Organisms: Structures and Processes",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Use a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "LS1.B: Growth and Development of Organisms": [
+        "In multicellular organisms individual cells grow and then divide via a process called mitosis, thereby allowing the organism to grow. The organism begins as a single cell (fertilized egg) that divides successively to produce many cells, with each parent cell passing identical genetic material (two variants of each chromosome pair) to both daughter cells. Cellular division and differentiation produce and maintain a complex organism, composed of systems of tissues and organs that work together to meet the needs of the whole organism."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions\u2014including energy, matter, and information flows\u2014within and between systems at different scales."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSF-IF.C.7",
+        "description": "Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases."
+      },
+      {
+        "code": "HSF-BF.A.1",
+        "description": "Write a function that describes a relationship between two quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-LS1-5": {
+    "id": "HS-LS1-5",
+    "description": "HS-LS1-5 From Molecules to Organisms: Structures and Processes",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Use a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "LS1.C: Organization for Matter and Energy Flow in Organisms": [
+        "The process of photosynthesis converts light energy to stored chemical energy by converting carbon dioxide plus water into sugars plus released oxygen."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Changes of energy and matter in a system can be described in terms of energy and matter flows into, out of, and within that system."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-LS1-6": {
+    "id": "HS-LS1-6",
+    "description": "HS-LS1-6 From Molecules to Organisms: Structures and Processes",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct and revise an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, models, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ],
+      "LS1.C: Organization for Matter and Energy Flow in Organisms": [
+        "The sugar molecules thus formed contain carbon, hydrogen, and oxygen: their hydrocarbon backbones are used to make amino acids and other carbon-based molecules that can be assembled into larger molecules (such as proteins or DNA), used for example to form new cells.",
+        "As matter and energy flow through different organizational levels of living systems, chemical elements are recombined in different ways to form different products."
+      ],
+      "Energy and Matter": [
+        "Changes of energy and matter in a system can be described in terms of energy and matter flows into, out of, and within that system."
+      ]
+    },
+    "dcis": {
+      "LS1.C: Organization for Matter and Energy Flow in Organisms": [
+        "The sugar molecules thus formed contain carbon, hydrogen, and oxygen: their hydrocarbon backbones are used to make amino acids and other carbon-based molecules that can be assembled into larger molecules (such as proteins or DNA), used for example to form new cells.",
+        "As matter and energy flow through different organizational levels of living systems, chemical elements are recombined in different ways to form different products."
+      ],
+      "Energy and Matter": [
+        "Changes of energy and matter in a system can be described in terms of energy and matter flows into, out of, and within that system."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Changes of energy and matter in a system can be described in terms of energy and matter flows into, out of, and within that system."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "WHST.9-12.5",
+        "description": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-LS1-7": {
+    "id": "HS-LS1-7",
+    "description": "HS-LS1-7 From Molecules to Organisms: Structures and Processes",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Use a model based on evidence to illustrate the relationships between systems or between components of a system."
+      ]
+    },
+    "dcis": {
+      "LS1.C: Organization for Matter and Energy Flow in Organisms": [
+        "As matter and energy flow through different organizational levels of living systems, chemical elements are recombined in different ways to form different products.",
+        "As a result of these chemical reactions, energy is transferred from one system of interacting molecules to another. Cellular respiration is a chemical process in which the bonds of food molecules and oxygen molecules are broken and new compounds are formed that can transport energy to muscles. Cellular respiration also releases the energy needed to maintain body temperature despite ongoing energy transfer to the surrounding environment."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Energy cannot be created or destroyed\u2014it only moves between one place and another place, between objects and/or fields, or between systems."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "SL.11-12.5",
+        "description": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest."
+      }
+    ]
+  },
+  "HS-LS2-1": {
+    "id": "HS-LS2-1",
+    "description": "HS-LS2-1 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical and/or computational representations of phenomena or design solutions to support explanations."
+      ]
+    },
+    "dcis": {
+      "LS2.A: Interdependent Relationships in Ecosystems": [
+        "Ecosystems have carrying capacities, which are limits to the numbers of organisms and populations they can support. These limits result from such factors as the availability of living and nonliving resources and from such challenges such as predation, competition, and disease. Organisms would have the capacity to produce populations of great size were it not for the fact that environments and resources are finite. This fundamental tension affects the abundance (number of individuals) of species in any given ecosystem."
+      ]
+    },
+    "cccs": {
+      "Scale, Proportion, and Quantity": [
+        "The significance of a phenomenon is dependent on the scale, proportion, and quantity at which it occurs."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      },
+      {
+        "code": "HSN.Q.A.1",
+        "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays."
+      },
+      {
+        "code": "HSN.Q.A.2",
+        "description": "Define appropriate quantities for the purpose of descriptive modeling."
+      },
+      {
+        "code": "HSN.Q.A.3",
+        "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-LS2-2": {
+    "id": "HS-LS2-2",
+    "description": "HS-LS2-2 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical representations of phenomena or design solutions to support and revise explanations."
+      ],
+      "Connections to Nature of Science": [
+        "Most scientific knowledge is quite durable, but is, in principle, subject to change based on new evidence and/or reinterpretation of existing evidence."
+      ],
+      "Scientific Knowledge is Open to Revision in Light of New Evidence": [
+        "Most scientific knowledge is quite durable, but is, in principle, subject to change based on new evidence and/or reinterpretation of existing evidence."
+      ]
+    },
+    "dcis": {
+      "LS2.A: Interdependent Relationships in Ecosystems": [
+        "Ecosystems have carrying capacities, which are limits to the numbers of organisms and populations they can support. These limits result from such factors as the availability of living and nonliving resources and from such challenges such as predation, competition, and disease. Organisms would have the capacity to produce populations of great size were it not for the fact that environments and resources are finite. This fundamental tension affects the abundance (number of individuals) of species in any given ecosystem."
+      ],
+      "LS2.C: Ecosystem Dynamics, Functioning, and Resilience": [
+        "A complex set of interactions within an ecosystem can keep its numbers and types of organisms relatively constant over long periods of time under stable conditions. If a modest biological or physical disturbance to an ecosystem occurs, it may return to its more or less original status (i.e., the ecosystem is resilient), as opposed to becoming a very different ecosystem. Extreme fluctuations in conditions or the size of any population, however, can challenge the functioning of ecosystems in terms of resources and habitat availability."
+      ]
+    },
+    "cccs": {
+      "Scale, Proportion, and Quantity": [
+        "Using the concept of orders of magnitude allows one to understand how a model at one scale relates to a model at another scale."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      }
+    ]
+  },
+  "HS-LS2-3": {
+    "id": "HS-LS2-3",
+    "description": "HS-LS2-3 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct and revise an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, models, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ],
+      "Connections to Nature of Science": [
+        "Most scientific knowledge is quite durable, but is, in principle, subject to change based on new evidence and/or reinterpretation of existing evidence."
+      ],
+      "Scientific Knowledge is Open to Revision in Light of New Evidence": [
+        "Most scientific knowledge is quite durable, but is, in principle, subject to change based on new evidence and/or reinterpretation of existing evidence."
+      ]
+    },
+    "dcis": {
+      "LS2.B: Cycles of Matter and Energy Transfer in Ecosystems": [
+        "Photosynthesis and cellular respiration (including anaerobic processes) provide most of the energy for life processes."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Energy drives the cycling of matter within and between systems."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.5",
+        "description": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience."
+      }
+    ]
+  },
+  "HS-LS2-4": {
+    "id": "HS-LS2-4",
+    "description": "HS-LS2-4 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical representations of phenomena or design solutions to support claims."
+      ]
+    },
+    "dcis": {
+      "LS2.B: Cycles of Matter and Energy Transfer in Ecosystems": [
+        "Plants or algae form the lowest level of the food web. At each link upward in a food web, only a small fraction of the matter consumed at the lower level is transferred upward, to produce growth and release energy in cellular respiration at the higher level. Given this inefficiency, there are generally fewer organisms at higher levels of a food web. Some matter reacts to release energy for life functions, some matter is stored in newly made structures, and much is discarded. The chemical elements that make up the molecules of organisms pass through food webs and into and out of the atmosphere and soil, and they are combined and recombined in different ways. At each link in an ecosystem, matter and energy are conserved."
+      ]
+    },
+    "cccs": {
+      "Energy and Matter": [
+        "Energy cannot be created or destroyed\u2014it only moves between one place and another place, between objects and/or fields, or between systems."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": []
+  },
+  "HS-LS2-5": {
+    "id": "HS-LS2-5",
+    "description": "HS-LS2-5 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Developing and Using Models": [
+        "Develop a model based on evidence to illustrate the relationships between systems or components of a system."
+      ]
+    },
+    "dcis": {
+      "LS2.B: Cycles of Matter and Energy Transfer in Ecosystems": [
+        "Photosynthesis and cellular respiration are important components of the carbon cycle, in which carbon is exchanged among the biosphere, atmosphere, oceans, and geosphere through chemical, physical, geological, and biological processes."
+      ],
+      "PS3.D: Energy in Chemical Processes": [
+        "The main way that solar energy is captured and stored on Earth is through the complex chemical process known as photosynthesis. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions\u2014including energy, matter, and information flows\u2014within and between systems at different scales."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": []
+  },
+  "HS-LS2-6": {
+    "id": "HS-LS2-6",
+    "description": "HS-LS2-6 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Evaluate the claims, evidence, and reasoning behind currently accepted explanations or solutions to determine the merits of arguments."
+      ],
+      "Connections to Nature of Science": [
+        "Scientific argumentation is a mode of logical discourse used to clarify the strength of relationships between ideas and evidence that may result in revision of an explanation."
+      ],
+      "Scientific Knowledge is Open to Revision in Light of New Evidence": [
+        "Scientific argumentation is a mode of logical discourse used to clarify the strength of relationships between ideas and evidence that may result in revision of an explanation."
+      ]
+    },
+    "dcis": {
+      "LS2.C: Ecosystem Dynamics, Functioning, and Resilience": [
+        "A complex set of interactions within an ecosystem can keep its numbers and types of organisms relatively constant over long periods of time under stable conditions. If a modest biological or physical disturbance to an ecosystem occurs, it may return to its more or less original status (i.e., the ecosystem is resilient), as opposed to becoming a very different ecosystem. Extreme fluctuations in conditions or the size of any population, however, can challenge the functioning of ecosystems in terms of resources and habitat availability."
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Much of science deals with constructing explanations of how things change and how they remain stable."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "HSS-ID.A.1",
+        "description": "Represent data with plots on the real number line."
+      },
+      {
+        "code": "HSS-IC.A.1",
+        "description": "Understand statistics as a process for making inferences about population parameters based on a random sample from that population."
+      },
+      {
+        "code": "HSS-IC.B.6",
+        "description": "Evaluate reports based on data."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.9-10.8",
+        "description": "Assess the extent to which the reasoning and evidence in a text support the author\u2019s claim or a recommendation for solving a scientific or technical problem."
+      },
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      }
+    ]
+  },
+  "HS-LS2-7": {
+    "id": "HS-LS2-7",
+    "description": "HS-LS2-7 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Design, evaluate, and refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations."
+      ]
+    },
+    "dcis": {
+      "LS2.C: Ecosystem Dynamics, Functioning, and Resilience": [
+        "Moreover, anthropogenic changes (induced by human activity) in the environment\u2014including habitat destruction, pollution, introduction of invasive species, overexploitation, and climate change\u2014can disrupt an ecosystem and threaten the survival of some species."
+      ],
+      "LS4.D: Biodiversity and Humans": [
+        "Biodiversity is increased by the formation of new species (speciation) and decreased by the loss of species (extinction). (secondary)",
+        "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value. (secondary) (Note: This Disciplinary Core Idea is also addressed by HS-LS4-6.)"
+      ],
+      "ETS1.B: Developing Possible Solutions": [
+        "When evaluating solutions it is important to take into account a range of constraints including cost, safety, reliability and aesthetics and to consider social, cultural and environmental impacts. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Stability and Change": [
+        "Much of science deals with constructing explanations of how things change and how they remain stable."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.9-10.8",
+        "description": "Assess the extent to which the reasoning and evidence in a text support the author\u2019s claim or a recommendation for solving a scientific or technical problem."
+      },
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      },
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      }
+    ]
+  },
+  "HS-LS2-8": {
+    "id": "HS-LS2-8",
+    "description": "HS-LS2-8 Ecosystems: Interactions, Energy, and Dynamics",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Evaluate the evidence behind currently accepted explanations to determine the merits of arguments."
+      ],
+      "Connections to Nature of Science": [
+        "Scientific argumentation is a mode of logical discourse used to clarify the strength of relationships between ideas and evidence that may result in revision of an explanation."
+      ],
+      "Scientific Knowledge is Open to Revision in Light of New Evidence": [
+        "Scientific argumentation is a mode of logical discourse used to clarify the strength of relationships between ideas and evidence that may result in revision of an explanation."
+      ]
+    },
+    "dcis": {
+      "LS2.D: Social Interactions and Group Behavior": [
+        "Group behavior has evolved because membership can increase the chances of survival for individuals and their genetic relatives."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.9-10.8",
+        "description": "Assess the extent to which the reasoning and evidence in a text support the author\u2019s claim or a recommendation for solving a scientific or technical problem."
+      },
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      }
+    ]
+  },
+  "HS-LS3-1": {
+    "id": "HS-LS3-1",
+    "description": "HS-LS3-1 Heredity: Inheritance and Variation of Traits",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Asking Questions and Defining Problems": [
+        "Ask questions that arise from examining models or a theory to clarify relationships."
+      ]
+    },
+    "dcis": {
+      "LS1.A: Structure and Function": [
+        "All cells contain genetic information in the form of DNA molecules. Genes are regions in the DNA that contain the instructions that code for the formation of proteins. (secondary) (Note: This Disciplinary Core Idea is also addressed by HS-LS1-1.)"
+      ],
+      "LS3.A: Inheritance of Traits": [
+        "Each chromosome consists of a single very long DNA molecule, and each gene on the chromosome is a particular segment of that DNA. The instructions for forming species\u2019 characteristics are carried in DNA. All cells in an organism have the same genetic content, but the genes used (expressed) by the cell may be regulated in different ways. Not all DNA codes for a protein; some segments of DNA are involved in regulatory or structural functions, and some have no as-yet known function."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": []
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "RST.11-12.9",
+        "description": "Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible."
+      }
+    ]
+  },
+  "HS-LS3-2": {
+    "id": "HS-LS3-2",
+    "description": "HS-LS3-2 Heredity: Inheritance and Variation of Traits",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Make and defend a claim based on evidence about the natural world that reflects scientific knowledge, and student-generated evidence."
+      ]
+    },
+    "dcis": {
+      "LS3.B: Variation of Traits": [
+        "In sexual reproduction, chromosomes can sometimes swap sections during the process of meiosis (cell division), thereby creating new genetic combinations and thus more genetic variation. Although DNA replication is tightly regulated and remarkably accurate, errors do occur and result in mutations, which are also a source of genetic variation. Environmental factors can also cause mutations in genes, and viable mutations are inherited.",
+        "Environmental factors also affect expression of traits, and hence affect the probability of occurrences of traits in a population. Thus the variation and distribution of traits observed depends on both genetic and environmental factors."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.1",
+        "description": "Write arguments focused on discipline-specific content."
+      }
+    ]
+  },
+  "HS-LS3-3": {
+    "id": "HS-LS3-3",
+    "description": "HS-LS3-3 Heredity: Inheritance and Variation of Traits",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Analyzing and Interpreting Data": [
+        "Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible."
+      ]
+    },
+    "dcis": {
+      "LS3.B: Variation of Traits": [
+        "Environmental factors also affect expression of traits, and hence affect the probability of occurrences of traits in a population. Thus the variation and distribution of traits observed depends on both genetic and environmental factors."
+      ],
+      "Scale, Proportion, and Quantity": [],
+      "Connections to Nature of Science": [],
+      "Science is a Human Endeavor": []
+    },
+    "cccs": {
+      "Scale, Proportion, and Quantity": [],
+      "Connections to Nature of Science": [],
+      "Science is a Human Endeavor": []
+    },
+    "math_standards": [],
+    "literacy_standards": []
+  },
+  "HS-LS4-1": {
+    "id": "HS-LS4-1",
+    "description": "HS-LS4-1 Biological Evolution: Unity and Diversity",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Obtaining, Evaluating, and Communicating Information": [
+        "Communicate scientific information (e.g., about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically)."
+      ],
+      "Connections to Nature of Science": [
+        "A scientific theory is a substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment and the science community validates each theory before it is accepted. If new evidence is discovered that the theory does not accommodate, the theory is generally modified in light of this new evidence."
+      ],
+      "Science Models, Laws, Mechanisms, and Theories Explain Natural Phenomena": [
+        "A scientific theory is a substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment and the science community validates each theory before it is accepted. If new evidence is discovered that the theory does not accommodate, the theory is generally modified in light of this new evidence."
+      ]
+    },
+    "dcis": {
+      "LS4.A: Evidence of Common Ancestry and Diversity": [
+        "Genetic information, like the fossil record, provides evidence of evolution. DNA sequences vary among species, but there are many overlaps; in fact, the ongoing branching that produces multiple lines of descent can be inferred by comparing the DNA sequences of different organisms. Such information is also derivable from the similarities and differences in amino acid sequences and from anatomical and embryological evidence."
+      ]
+    },
+    "cccs": {
+      "Patterns": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future."
+      ],
+      "Connections to Nature of Science": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future."
+      ],
+      "Scientific Knowledge Assumes an Order and Consistency in Natural Systems": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST-11.12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      },
+      {
+        "code": "SL.11-12.4",
+        "description": "Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation."
+      }
+    ]
+  },
+  "HS-LS4-2": {
+    "id": "HS-LS4-2",
+    "description": "HS-LS4-2 Biological Evolution: Unity and Diversity",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, models, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ]
+    },
+    "dcis": {
+      "LS4.B: Natural Selection": [
+        "Natural selection occurs only if there is both (1) variation in the genetic information between organisms in a population and (2) variation in the expression of that genetic information\u2014that is, trait variation\u2014that leads to differences in performance among individuals."
+      ],
+      "LS4.C: Adaptation": [
+        "Evolution is a consequence of the interaction of four factors: (1) the potential for a species to increase in number, (2) the genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for an environment\u2019s limited supply of the resources that individuals need in order to survive and reproduce, and (4) the ensuing proliferation of those organisms that are better able to survive and reproduce in that environment."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": []
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST-11.12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      },
+      {
+        "code": "SL.11-12.4",
+        "description": "Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation."
+      }
+    ]
+  },
+  "HS-LS4-3": {
+    "id": "HS-LS4-3",
+    "description": "HS-LS4-3 Biological Evolution: Unity and Diversity",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Analyzing and Interpreting Data": [
+        "Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible."
+      ]
+    },
+    "dcis": {
+      "LS4.B: Natural Selection": [
+        "Natural selection occurs only if there is both (1) variation in the genetic information between organisms in a population and (2) variation in the expression of that genetic information\u2014that is, trait variation\u2014that leads to differences in performance among individuals.",
+        "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population."
+      ],
+      "LS4.C: Adaptation": [
+        "Natural selection leads to adaptation, that is, to a population dominated by organisms that are anatomically, behaviorally, and physiologically well suited to survive and reproduce in a specific environment. That is, the differential survival and reproduction of organisms in a population that have an advantageous heritable trait leads to an increase in the proportion of individuals in future generations that have the trait and to a decrease in the proportion of individuals that do not.",
+        "Adaptation also means that the distribution of traits in a population can change when conditions change."
+      ]
+    },
+    "cccs": {
+      "Patterns": []
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST-11.12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-LS4-4": {
+    "id": "HS-LS4-4",
+    "description": "HS-LS4-4 Biological Evolution: Unity and Diversity",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Construct an explanation based on valid and reliable evidence obtained from a variety of sources (including students\u2019 own investigations, models, theories, simulations, peer review) and the assumption that theories and laws that describe the natural world operate today as they did in the past and will continue to do so in the future."
+      ]
+    },
+    "dcis": {
+      "LS4.C: Adaptation": [
+        "Natural selection leads to adaptation, that is, to a population dominated by organisms that are anatomically, behaviorally, and physiologically well suited to survive and reproduce in a specific environment. That is, the differential survival and reproduction of organisms in a population that have an advantageous heritable trait leads to an increase in the proportion of individuals in future generations that have the trait and to a decrease in the proportion of individuals that do not."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future."
+      ],
+      "Connections to Nature of Science": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future."
+      ],
+      "Scientific Knowledge Assumes an Order and Consistency in Natural Systems": [
+        "Scientific knowledge is based on the assumption that natural laws operate today as they did in the past and they will continue to do so in the future."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "RST-11.12.1",
+        "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+      },
+      {
+        "code": "WHST.9-12.2",
+        "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-LS4-5": {
+    "id": "HS-LS4-5",
+    "description": "HS-LS4-5 Biological Evolution: Unity and Diversity",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Engaging in Argument from Evidence": [
+        "Evaluate the evidence behind currently accepted explanations or solutions to determine the merits of arguments."
+      ]
+    },
+    "dcis": {
+      "LS4.C: Adaptation": [
+        "Changes in the physical environment, whether naturally occurring or human induced, have thus contributed to the expansion of some species, the emergence of new distinct species as populations diverge under different conditions, and the decline\u2013and sometimes the extinction\u2013of some species.",
+        "Species become extinct because they can no longer survive and reproduce in their altered environment. If members cannot adjust to change that is too fast or drastic, the opportunity for the species\u2019 evolution is lost."
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST-11.12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      },
+      {
+        "code": "WHST.9-12.9",
+        "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+      }
+    ]
+  },
+  "HS-LS4-6": {
+    "id": "HS-LS4-6",
+    "description": "HS-LS4-6 Biological Evolution: Unity and Diversity",
+    "domain": "Life Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Create or revise a simulation of a phenomenon, designed device, process, or system."
+      ]
+    },
+    "dcis": {
+      "LS4.C: Adaptation": [
+        "Changes in the physical environment, whether naturally occurring or human induced, have thus contributed to the expansion of some species, the emergence of new distinct species as populations diverge under different conditions, and the decline\u2013and sometimes the extinction\u2013of some species."
+      ],
+      "LS4.D: Biodiversity and Humans": [
+        "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value. (Note: This Disciplinary Core Idea is also addressed by HS-LS2-7.)"
+      ],
+      "ETS1.B: Developing Possible Solutions": [
+        "When evaluating solutions, it is important to take into account a range of constraints, including cost, safety, reliability, and aesthetics, and to consider social, cultural, and environmental impacts. (secondary)",
+        "Both physical models and computers can be used in various ways to aid in the engineering design process. Computers are useful for a variety of purposes, such as running simulations to test different ways of solving a problem or to see which one is most efficient or economical; and in making a persuasive presentation to a client about how a given design will meet his or her needs. (secondary)"
+      ]
+    },
+    "cccs": {
+      "Cause and Effect": [
+        "Empirical evidence is required to differentiate between cause and correlation and make claims about specific causes and effects."
+      ]
+    },
+    "math_standards": [],
+    "literacy_standards": [
+      {
+        "code": "WHST.9-12.5",
+        "description": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience."
+      },
+      {
+        "code": "WHST.9-12.7",
+        "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+      }
+    ]
+  },
+  "HS-ETS1-1": {
+    "id": "HS-ETS1-1",
+    "description": "HS-ETS1-1 Engineering Design",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "topic": null,
+    "seps": {
+      "Asking Questions and Defining Problems": [
+        "Analyze complex real-world problems by specifying criteria and constraints for successful solutions."
+      ]
+    },
+    "dcis": {
+      "ETS1.A: Defining and Delimiting Engineering Problems": [
+        "Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them.",
+        "Humanity faces major global challenges today, such as the need for supplies of clean water and food or for energy sources that minimize pollution, which can be addressed through engineering. These global challenges also may have manifestations in local communities."
+      ]
+    },
+    "cccs": {
+      "Connections to Engineering, Technology, and Applications of Science": [],
+      "Influence of Science, Engineering, and Technology on Society and the Natural World": []
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      },
+      {
+        "code": "RST.11-12.9",
+        "description": "Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible."
+      }
+    ]
+  },
+  "HS-ETS1-2": {
+    "id": "HS-ETS1-2",
+    "description": "HS-ETS1-2 Engineering Design",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Design a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations."
+      ]
+    },
+    "dcis": {
+      "ETS1.C: Optimizing the Design Solution": [
+        "Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed."
+      ]
+    },
+    "cccs": {},
+    "math_standards": [
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      }
+    ],
+    "literacy_standards": []
+  },
+  "HS-ETS1-3": {
+    "id": "HS-ETS1-3",
+    "description": "HS-ETS1-3 Engineering Design",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "topic": null,
+    "seps": {
+      "Constructing Explanations and Designing Solutions": [
+        "Evaluate a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations."
+      ]
+    },
+    "dcis": {
+      "ETS1.B: Developing Possible Solutions": [
+        "When evaluating solutions, it is important to take into account a range of constraints, including cost, safety, reliability, and aesthetics, and to consider social, cultural, and environmental impacts."
+      ]
+    },
+    "cccs": {
+      "Connections to Engineering, Technology, and Applications of Science": [],
+      "Influence of Science, Engineering, and Technology on Society and the Natural World": []
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      }
+    ],
+    "literacy_standards": [
+      {
+        "code": "RST.11-12.7",
+        "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+      },
+      {
+        "code": "RST.11-12.8",
+        "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+      },
+      {
+        "code": "RST.11-12.9",
+        "description": "Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible."
+      }
+    ]
+  },
+  "HS-ETS1-4": {
+    "id": "HS-ETS1-4",
+    "description": "HS-ETS1-4 Engineering Design",
+    "domain": "Engineering, Technology, and Applications of Science",
+    "topic": null,
+    "seps": {
+      "Using Mathematics and Computational Thinking": [
+        "Use mathematical models and/or computer simulations to predict the effects of a design solution on systems and/or the interactions between systems."
+      ]
+    },
+    "dcis": {
+      "ETS1.B: Developing Possible SolutionsBoth physical models and computers can be used in various ways to aid in the engineering design process. Computers are useful for a variety of purposes, such as running simulations to test different ways of solving a problem or to see which one is most efficient or economical; and in making a persuasive presentation to a client about how a given design will meet his or her needs.": [],
+      "ETS1.B: Developing Possible Solutions": [
+        "Both physical models and computers can be used in various ways to aid in the engineering design process. Computers are useful for a variety of purposes, such as running simulations to test different ways of solving a problem or to see which one is most efficient or economical; and in making a persuasive presentation to a client about how a given design will meet his or her needs."
+      ]
+    },
+    "cccs": {
+      "Systems and System Models": [
+        "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions\u2014including energy, matter, and information flows\u2014 within and between systems at different scales."
+      ]
+    },
+    "math_standards": [
+      {
+        "code": "MP.2",
+        "description": "Reason abstractly and quantitatively."
+      },
+      {
+        "code": "MP.4",
+        "description": "Model with mathematics."
+      }
+    ],
+    "literacy_standards": []
+  }
+}

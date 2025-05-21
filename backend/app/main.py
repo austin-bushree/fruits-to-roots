@@ -1,9 +1,13 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routes import api
+from app.routes import standards
+
 
 app = FastAPI()
 app.include_router(api.router)
+app.include_router(standards.router)
+
 
 origins = [
     "http://localhost:5173",  # local dev
